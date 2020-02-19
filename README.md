@@ -15,4 +15,9 @@
  - NumPy (fast vectorized operations)
  - pandas (fast heterogeneous arrays)
  - python-tabula (extract tables from pdf)
+ - plotly figure factory for cloropleths
+ 
+### Results
 
+![](ag_plot.png)
+![](animal_plot.png)
