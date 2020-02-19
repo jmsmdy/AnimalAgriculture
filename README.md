@@ -19,5 +19,5 @@
  
 ### Results
 
-![](ag_plot.png)
-![](animal_plot.png)
+![](Images/ag_plot.png)
+![](Images/animal_plot.png)
