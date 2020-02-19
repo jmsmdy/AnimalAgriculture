@@ -1,0 +1,55 @@
+Disease,Arizona,Apache,Cochise,Coconino,Gila,Graham,Greenlee,La Paz,Maricopa,Mohave,Navajo,Pima,Pinal,Santa Cruz,Yavapai,Yuma
+Measles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mumps,34,0,0,1,0,0,0,0,11,0,0,22,0,0,0,1
+Pertussis,420,3,2,18,2,3,0,1,283,17,14,50,12,1,13,1
+Pertussis confirmed cases,262,2,2,10,0,0,0,1,196,5,12,24,8,1,1,0
+Rubella,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Congenital Rubella Syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Haemophilus influenzae  type B (invasive, age < 5 years)",2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Varicella (chickenpox),189,1,4,3,0,0,0,0,116,6,6,28,10,1,8,6
+Aseptic Meningitis,81,0,0,0,1,0,0,0,63,3,1,8,3,0,2,0
+Meningococcal Disease,4,0,0,1,0,0,0,0,2,0,0,1,0,0,0,0
+Viral Encephalitis,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Amebiasis,16,0,0,1,0,0,0,0,7,0,0,2,1,1,2,2
+Campylobacteriosis,1372,41,44,48,36,16,3,4,674,71,93,164,73,9,55,41
+Cholera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cryptosporidiosis,112,1,1,12,0,1,0,0,70,7,0,14,2,0,1,3
+"E. coli, Shiga toxin-producing",166,0,6,5,1,1,0,0,92,11,1,28,5,7,4,5
+Giardiasis,145,1,4,3,1,2,1,1,100,8,3,11,6,1,3,0
+Salmonellosis (except S. Typhi and S. Paratyphi),874,27,19,20,11,13,1,5,425,8,27,174,68,10,37,29
+Salmonella Paratyphi A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Salmonella Paratyphi B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salmonella Paratyphi C,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shigellosis,555,10,1,5,14,4,0,0,288,1,100,73,20,6,9,24
+Typhoid Fever,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Coccidioidomycosis (Valley Fever),6885,30,31,32,62,18,3,19,4932,67,46,1022,518,17,60,28
+Hepatitis A,61,0,1,0,0,0,1,0,40,1,0,5,7,3,1,2
+"Hepatitis B, Acute",41,1,3,0,1,1,0,0,19,3,2,6,2,0,2,1
+"Hepatitis B, Perinatal",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Hepatitis D,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brucellosis,8,0,0,0,1,0,0,0,6,0,1,0,0,0,0,0
+Colorado Tick Fever,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dengue,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Ehrlichiosis/Anaplasmosis,4,0,0,0,0,0,0,0,2,0,0,1,0,0,1,0
+Hantavirus Pulmonary Syndrome,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Human Rabies,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lyme Disease,28,0,0,3,1,0,0,0,14,3,0,3,1,0,1,2
+Malaria,26,0,0,1,0,0,0,0,21,0,0,4,0,0,0,0
+Plague,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Relapsing Fever, Tickborne",3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Rocky Mtn. Spotted Fever,27,0,1,0,12,2,0,0,0,0,2,8,1,1,0,0
+St. Louis Encephalitis,6,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0
+Tularemia,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+West Nile Virus,110,0,0,0,0,1,0,0,93,1,1,5,9,0,0,0
+Botulism,5,0,0,1,0,0,0,0,3,0,0,1,0,0,0,0
+Legionellosis,74,0,1,0,1,0,0,1,44,3,0,12,7,2,2,1
+Listeriosis,8,0,0,0,0,0,0,0,4,0,1,2,1,0,0,0
+Methicillin-Resistant S. aureus  (invasive),1355,6,27,8,18,5,2,6,774,13,26,315,65,4,48,38
+Streptococcal Group A (invasive),614,9,8,23,7,2,0,3,351,6,24,127,31,2,13,8
+Streptococcal Group B (invasive disease in infants<90 days old),63,1,0,1,1,1,0,1,44,1,2,7,0,0,3,1
+Streptococcus pneumoniae  (invasive),707,47,12,17,9,9,0,1,372,16,41,111,37,1,17,17
+Reyes Syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toxic Shock Syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vibrio  spp. (except toxogenic V. cholerae ),25,0,2,1,0,0,0,0,"
+13","
+1",1,5,2,0,0,0
